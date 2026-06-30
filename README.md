@@ -61,5 +61,4 @@
 ---
 
 ### 📈 GitHub Stats
-
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakMer&show_icons=true&theme=dark&cache_seconds=1800&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RakMer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

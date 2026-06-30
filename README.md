@@ -61,4 +61,4 @@
 ---
 
 ### 📈 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=RakMer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Mert's Metrics](https://metrics.lecoq.io/RakMer?template=classic&base.header=false&base.activity=true&base.repositories=true&base.metadata=true)

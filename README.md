@@ -39,4 +39,4 @@ Geliştirmek istediğin alanları ve şu anki durumunu buraya yazabilirsin. Ahme
 ### 📊 GitHub Stats
 *(Profiline dinamik istatistikler eklemek isterseniz aşağıdaki linklerde 'kullanici_adin' kısmını kendi kullanıcı adınla değiştir)*
 
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanici_adin&show_icons=true&theme=dark)
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakMer&show_icons=true&theme=dark)

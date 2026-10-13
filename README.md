@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a Computer Engineering.
+- 🎓 I'm a Computer Engineer.
 - 🚀 My primary focus is **Data Engineering**, building fault-tolerant data pipelines, and processing big data.
 - 🗄️ I am also highly passionate about **Database Engineering**, including monitoring, performance tuning, and architecture design.
 - 💼 Currently working as a Software Intern at Galatasaray University IT Department, developing enterprise-level tracking systems.
